@@ -1,1 +1,6 @@
 D:\College\3_KYRS\PRACTIC_KPIYAP\01\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\College\3_KYRS\PRACTIC_KPIYAP\01\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\College\3_KYRS\PRACTIC_KPIYAP\01\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\College\3_KYRS\PRACTIC_KPIYAP\01\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\College\3_KYRS\PRACTIC_KPIYAP\01\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\College\3_KYRS\PRACTIC_KPIYAP\01\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
